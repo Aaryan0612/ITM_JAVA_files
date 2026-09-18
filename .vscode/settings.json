@@ -1,0 +1,8 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "/Users/aaryan_kuchekar/Downloads/javafx-sdk-27/lib/javafx.base.jar",
+    "/Users/aaryan_kuchekar/Downloads/javafx-sdk-27/lib/javafx.controls.jar",
+    "/Users/aaryan_kuchekar/Downloads/javafx-sdk-27/lib/javafx.graphics.jar"
+  ]
+}
